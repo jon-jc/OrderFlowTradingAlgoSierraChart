@@ -14,7 +14,7 @@
 
 ## Description
 
-This repository contains an advanced, professional-grade order flow trading strategy implemented for Sierra Chart. The strategy utilizes sophisticated order flow concepts including cumulative delta, volume imbalances, and fair value gaps (FVGs) to make trading decisions. It's designed for experienced traders and quants who understand the intricacies of order flow trading and Sierra Chart's Advanced Custom Study (ACS) framework.
+This repository contains an advanced order flow trading strategy implemented for Sierra Chart. The strategy utilizes sophisticated order flow concepts including cumulative delta, volume imbalances, and fair value gaps (FVGs) to make trading decisions. It's designed for experienced traders and quants who understand the intricacies of order flow trading and Sierra Chart's Advanced Custom Study (ACS) framework.
 
 ## Key Features
 
