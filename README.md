@@ -29,7 +29,7 @@ This repository contains an advanced order flow trading strategy implemented for
 - **Trading Hours Filter:** Operates only during specified trading hours
 
 ## Requirements
-
+- OrderFlowAlgoOptimization Script (https://github.com/jon-jc/OrderFlowAlgoOptimization)
 - Sierra Chart software (latest version recommended)
 - C++ compiler compatible with Sierra Chart's ACS framework
 - Thorough understanding of order flow trading concepts
